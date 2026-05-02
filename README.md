@@ -1,7 +1,3 @@
-# monevia-legal
-Documents juridiques de l'application Monevia (CGU, politique de confidentialité, mentions légales)
-
-
 # Monevia — Documents juridiques / Legal Documents
 
 [🇫🇷 Français](#-français) · [🇬🇧 English](#-english)
@@ -14,9 +10,9 @@ Ce dépôt contient les documents juridiques officiels de l'application **Monevi
 
 ### Documents
 
-- 📄 [Politique de confidentialité](FR/privacy-FR.md) — Traitement des données personnelles (RGPD)
-- 📄 [Conditions générales d'utilisation et de vente](FR/terms-FR.md) — Règles d'usage et conditions des achats in-app
-- 📄 [Mentions légales](FR/legal-notice-FR.md) — Identité de l'éditeur et informations LCEN
+- 📄 [Politique de confidentialité](fr/privacy-fr.md) — Traitement des données personnelles (RGPD)
+- 📄 [Conditions générales d'utilisation et de vente](fr/terms-fr.md) — Règles d'usage et conditions des achats in-app
+- 📄 [Mentions légales](fr/legal-notice-fr.md) — Identité de l'éditeur et informations LCEN
 
 ### Important
 
@@ -30,9 +26,9 @@ This repository contains the official legal documents of the **Monevia** applica
 
 ### Documents
 
-- 📄 [Privacy Policy](EN/privacy-EN.md) — Personal data processing (GDPR)
-- 📄 [Terms of Service and Sale](EN/terms-EN.md) — Usage rules and in-app purchase conditions
-- 📄 [Legal Notice](EN/legal-notice-EN.md) — Publisher identity and LCEN information
+- 📄 [Privacy Policy](en/privacy-en.md) — Personal data processing (GDPR)
+- 📄 [Terms of Service and Sale](en/terms-en.md) — Usage rules and in-app purchase conditions
+- 📄 [Legal Notice](en/legal-notice-en.md) — Publisher identity and LCEN information
 
 ### Important
 
